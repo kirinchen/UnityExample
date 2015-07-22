@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Breakout Game Starter Kit\Assets\Scripts\Block\DropPowerUpOnHit.cs">
+    <Files>
+      <File FileName="Assets\Breakout Game Starter Kit\Assets\Scripts\Block\DropPowerUpOnHit.cs" Line="44" Column="17" />
+      <File FileName="Assets\Script\BlockCreator.cs" Line="22" Column="1" />
+      <File FileName="Assets\Script\Player.cs" Line="7" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
